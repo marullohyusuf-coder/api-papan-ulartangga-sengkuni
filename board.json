@@ -1,13 +1,29 @@
 {
   "image": "https://raw.githubusercontent.com/marullohyusuf-coder/api-papan-ulartangga-sengkuni/main/ulartangga-sengkunimd.jpg",
-  "dice": "https://cdn.jsdelivr.net/gh/marullohyusuf-coder/api-papan-ulartangga-sengkuni/dadu-ulartangga-sengkunimd.gif",
+  "dice": "https://raw.githubusercontent.com/marullohyusuf-coder/api-papan-ulartangga-sengkuni/main/dadu-ulartangga-sengkunimd.gif",
   "win": 100,
   "snakes": {
     "98": 78,
-    "95": 75
+    "95": 75,
+    "88": 68,
+    "84": 63,
+    "57": 36,
+    "52": 31,
+    "48": 26,
+    "35": 15,
+    "24": 2,
+    "13": 9
   },
   "ladders": {
     "2": 21,
+    "19": 38,
+    "22": 60,
+    "23": 43,
+    "37": 56,
+    "46": 66,
+    "51": 71,
+    "54": 74,
+    "62": 82,
     "81": 99
   }
 }
