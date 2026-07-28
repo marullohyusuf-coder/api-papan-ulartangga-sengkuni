@@ -1,0 +1,13 @@
+{
+  "image": "https://raw.githubusercontent.com/marullohyusuf-coder/api-papan-ulartangga-sengkuni/main/ulartangga-sengkunimd.jpg",
+  "dice": "https://cdn.jsdelivr.net/gh/marullohyusuf-coder/api-papan-ulartangga-sengkuni/dadu-ulartangga-sengkunimd.gif",
+  "win": 100,
+  "snakes": {
+    "98": 78,
+    "95": 75
+  },
+  "ladders": {
+    "2": 21,
+    "81": 99
+  }
+}
